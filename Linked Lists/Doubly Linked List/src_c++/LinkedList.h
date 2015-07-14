@@ -1,6 +1,6 @@
 //
 //  LinkedList.h
-//  Algorithms
+//  Data Structures
 //
 //  Created by Jonathan Sullivan on 7/13/15.
 //
@@ -26,8 +26,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#ifndef __Algorithms__LinkedList__
-#define __Algorithms__LinkedList__
+#ifndef __Data_Structures__LinkedList__
+#define __Data_Structures__LinkedList__
 
 #include <stdio.h>
 
@@ -144,4 +144,4 @@ public:
 };
 
 
-#endif /* defined(__Algorithms__LinkedList__) */
+#endif /* defined(__Data_Structures__LinkedList__) */
