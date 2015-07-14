@@ -38,6 +38,24 @@ class Stack
     std::vector<T> elements;
     
 public:
+    
+#pragma mark - Helper Functions
+    
+    bool empty()
+    {
+        return elements.empty();
+    }
+    
+    int size()
+    {
+        return elements.size();
+    }
+    
+#pragma mark -
+    
+    
+#pragma mark - Action Functions
+    
     void push(const T &element)
     {
         elements.push_back(element);
@@ -62,15 +80,8 @@ public:
         return elements.back();
     }
     
-    bool empty()
-    {
-        return elements.empty();
-    }
+#pragma mark -
     
-    int size()
-    {
-        return elements.size();
-    }
 };
 
 
