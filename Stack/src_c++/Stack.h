@@ -46,7 +46,7 @@ public:
         return elements.empty();
     }
     
-    unsigned long size()
+    size_t size()
     {
         return elements.size();
     }
