@@ -1,6 +1,6 @@
 //
 //  Stack.h
-//  Algorithms
+//  Data Structures
 //
 //  Created by Jonathan Sullivan on 7/13/15.
 //
@@ -26,8 +26,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-#ifndef __Algorithms__Stack__
-#define __Algorithms__Stack__
+#ifndef __Data_Structures__Stack__
+#define __Data_Structures__Stack__
 
 #include <stdio.h>
 #include <vector>
@@ -85,4 +85,4 @@ public:
 };
 
 
-#endif /* defined(__Algorithms__Stack__) */
+#endif /* defined(__Data_Structures__Stack__) */
