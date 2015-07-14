@@ -1,6 +1,8 @@
 # Data Structures
 Implementations of Beginner, Intermediate, Proficient, and Expert Data structures.
 
+Languages Used: C++
+
 ####Beginner
 Linked List (Singly and Doubly), Stack, Queue, and Binary Search Tree
 
