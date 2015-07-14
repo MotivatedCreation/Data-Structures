@@ -1,4 +1,4 @@
-#Linked List
+#Stack
 A simple stack implementation using a vector.
 
 Languages Used: C++
