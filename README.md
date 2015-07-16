@@ -13,4 +13,4 @@ Priority Queue, Huffman Tree, Union Find, Hash Table, and Tree Map
 Segment Tree, Binary Indexed Tree, Suffix Array, Sparse Table, Lowest Common Ancestor, and Range Tree.
 
 ####Expert
-Suggix Automaton, Suffix Tree, Heavy-Light Decomposition, Treap, Aho-Corasick, k-d Tree, Link-Cut Tree, Splay Tree, Palindromic Tree, Rope, Dancing Links, Radix Tree, and Dynamic Suffix Array
+Suffix Automaton, Suffix Tree, Heavy-Light Decomposition, Treap, Aho-Corasick, k-d Tree, Link-Cut Tree, Splay Tree, Palindromic Tree, Rope, Dancing Links, Radix Tree, and Dynamic Suffix Array
