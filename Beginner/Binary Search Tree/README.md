@@ -1,5 +1,5 @@
-#Queue
-A simple queue implementation using a deque.
+#Binary Tree Search
+A simple recursive binary tree search implementation.
 
 Languages Used: C++
 
