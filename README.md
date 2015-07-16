@@ -7,7 +7,7 @@ Languages Used: C++
 Linked List (Singly and Doubly), Stack, Queue, and Binary Search Tree
 
 ####Intermediate
-Heap, Priority Queue, Huffman Tree, union Find, Hash Table, and Tree Map
+Priority Queue, Huffman Tree, Union Find, Hash Table, and Tree Map
 
 ####Proficient
 Segment Tree, Binary Indexed Tree, Suffix Array, Sparse Table, Lowest Common Ancestor, and Range Tree.
