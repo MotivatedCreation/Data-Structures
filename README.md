@@ -6,6 +6,8 @@ Languages Used: C++
 ####Beginner
 Linked List (Singly and Doubly), Stack, Queue, and Binary Search Tree
 
+###To be added:
+
 ####Intermediate
 Priority Queue, Huffman Tree, Union Find, Hash Table, and Tree Map
 
